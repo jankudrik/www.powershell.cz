@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: "PowerShell"
+description: "Příkazový řádek a skriptovací jazyk od Microsoftu"
+lang: cs_CZ
