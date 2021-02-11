@@ -17,4 +17,4 @@ title: "Informační rozcestník"
 
 ***
 
-Pokud zde chybí odkaz na cokoliv, co by ocenil každý, kdo PowerShell využívá nebo se jej teprve chystá naučit, přidejte ho na [GitHubu]({{ site.github.repository_url }}) nebo zašlete <a href="mailto:webmaster@powershell.cz">e-mailem</a>. Upřednostňovány jsou materiály v češtině a angličtině.
+Pokud zde chybí odkaz na cokoliv, co by ocenil každý, kdo PowerShell využívá nebo se jej teprve chystá naučit, přidejte ho na [GitHubu]({{ site.github.repository_url }}) nebo zašlete <a href="mailto:jan@kudrik.cz?subject=PowerShell.cz">e-mailem</a>. Upřednostňovány jsou materiály v češtině a angličtině.
