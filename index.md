@@ -13,7 +13,7 @@ title: "Informační rozcestník"
 
 ### Studijní materiály
 
-- [Learn Windows PowerShell in a Month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)
+- [Learn Windows PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches)
 
 ***
 
